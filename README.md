@@ -1,12 +1,12 @@
 # product-thinking
 
-> Before you build anything, you need to understand what's worth building — and for whom.
+> Before you build anything, you need to understand what's worth building and for whom.
 
 Part of the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem.
 
 Most product failures aren't technical. They happen because someone built the right thing for the wrong person, or the wrong thing for everyone, or a good thing in a market that was already saturated.
 
-This repo covers everything that happens before the first line of code — the thinking layer that determines whether what you build will matter.
+This repo covers everything that happens before the first line of code, the thinking layer that determines whether what you build will matter.
 
 ---
 
@@ -101,4 +101,4 @@ If you're already mid-process, jump to wherever you are. But if something feels 
 
 ---
 
-Made by [Ohana Taís](https://github.com/ohanatais) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-ohanatais-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ohanatais)
+Made by [Ohana Taís](https://github.com/ohanatais) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-ohana-taís-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ohana-taís)
