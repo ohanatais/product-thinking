@@ -101,4 +101,4 @@ If you're already mid-process, jump to wherever you are. But if something feels 
 
 ---
 
-Made by [Ohana Taís](https://github.com/ohanatais) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-ohana-taís-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ohana-taís)
+Made by [Ohana Taís](https://github.com/ohanatais) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-ohanatais-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ohana-taís)
