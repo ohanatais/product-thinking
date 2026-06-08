@@ -72,10 +72,15 @@ Read the guides in order if you're starting from scratch. Each one feeds into th
 
 If you're already mid-process, jump to wherever you are. But if something feels off downstream, the answer is almost always in a step you skipped upstream.
 
-**Claude Code skills** for each stage live in [pm-skills](https://github.com/ohanatais/pm-skills) and, for the stages already covered, directly in [`skills/`](skills/) in this repo. Install them in your project to use structured frameworks directly inside Claude Code.
+**Claude Code skills** for each stage live directly in this repo — one folder per topic, each with its own `SKILL.md`, `references/`, and `README.md`. Install them in your project to use structured frameworks directly inside Claude Code. (For day-to-day PM skills — not part of this build-from-zero journey — see [pm-skills](https://github.com/ohanatais/pm-skills).)
 
-- [`skills/market-research`](skills/market-research) — research a market without a research team or a budget
-- [`skills/idea-validation`](skills/idea-validation) — find and test the riskiest assumption behind an idea before building it
+- [`market-research`](market-research) — research a market without a research team or a budget
+- [`idea-validation`](idea-validation) — find and test the riskiest assumption behind an idea before building it
+- [`personas`](personas) — define who exactly you're building for, grounded in JTBD
+- [`positioning`](positioning) — define where your product stands using the Dunford five-component framework
+- [`prd`](prd) — write a four-section PRD built for solo builders
+
+A PT-BR introductory guide that walks through all five stages, module by module, lives in [`GUIA-PRODUCT-THINKING.md`](GUIA-PRODUCT-THINKING.md).
 
 ---
 
@@ -83,11 +88,11 @@ If you're already mid-process, jump to wherever you are. But if something feels 
 
 | Content | Status |
 |---|---|
-| Market research | ✅ Skill available in [`skills/market-research`](skills/market-research) |
-| Idea validation | ✅ Skill available in [`skills/idea-validation`](skills/idea-validation) |
-| Personas | 📋 Planned |
-| Positioning | 📋 Planned |
-| PRD | 📋 Planned |
+| Market research | ✅ Skill available in [`market-research`](market-research) |
+| Idea validation | ✅ Skill available in [`idea-validation`](idea-validation) |
+| Personas | ✅ Skill available in [`personas`](personas) |
+| Positioning | ✅ Skill available in [`positioning`](positioning) |
+| PRD | ✅ Skill available in [`prd`](prd) |
 
 ---
 
