@@ -212,4 +212,4 @@ with evidence. When it's inconclusive, say "inconclusive" and list what needs to
 
 *Built from a real validation process — including a pivot that changed TAM, personas,
 and positioning before a line of code was written.*
-*Part of the [pm-skills](https://github.com/ohanatais/pm-skills) ecosystem by [@ohanatais](https://github.com/ohanatais).*
+*Part of the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem by [@ohanatais](https://github.com/ohanatais).*

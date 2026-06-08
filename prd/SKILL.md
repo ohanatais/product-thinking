@@ -242,4 +242,4 @@ After the PRD: use it as context in every Claude Code session.
 
 *Built from real solo product work — including a PRD that kept scope contained
 through 4 months of building and prevented feature creep that would have killed the timeline.*
-*Part of the [pm-skills](https://github.com/ohanatais/pm-skills) ecosystem by [@ohanatais](https://github.com/ohanatais).*
+*Part of the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem by [@ohanatais](https://github.com/ohanatais).*

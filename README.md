@@ -72,7 +72,7 @@ Read the guides in order if you're starting from scratch. Each one feeds into th
 
 If you're already mid-process, jump to wherever you are. But if something feels off downstream, the answer is almost always in a step you skipped upstream.
 
-**Claude Code skills** for each stage live directly in this repo — one folder per topic, each with its own `SKILL.md`, `references/`, and `README.md`. Install them in your project to use structured frameworks directly inside Claude Code. (For day-to-day PM skills — not part of this build-from-zero journey — see [pm-skills](https://github.com/ohanatais/pm-skills).)
+**Claude Code skills** for each stage live directly in this repo — one folder per topic, each with its own `SKILL.md`, `references/`, and `README.md`. Install them in your project to use structured frameworks directly inside Claude Code.
 
 - [`market-research`](market-research) — research a market without a research team or a budget
 - [`idea-validation`](idea-validation) — find and test the riskiest assumption behind an idea before building it
@@ -105,7 +105,6 @@ A PT-BR introductory guide that walks through all five stages, module by module,
 | [brand-and-copy](https://github.com/ohanatais/brand-and-copy) | Brand identity, tone, copy |
 | [build-with-claude](https://github.com/ohanatais/build-with-claude) | Technical guide for non-technical builders |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, first users |
-| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills · PT-BR |
 
 ---
 

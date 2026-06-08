@@ -174,4 +174,4 @@ from the behavioral grounding — name it.
 
 ---
 
-*Part of the [pm-skills](https://github.com/ohanatais/pm-skills) ecosystem by [@ohanatais](https://github.com/ohanatais).*
+*Part of the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem by [@ohanatais](https://github.com/ohanatais).*

@@ -198,4 +198,4 @@ Choose the category that makes your unique value obvious — not the obvious cat
 
 *Built from real positioning work — including a category shift that changed how
 the product was described, compared, and bought.*
-*Part of the [pm-skills](https://github.com/ohanatais/pm-skills) ecosystem by [@ohanatais](https://github.com/ohanatais).*
+*Part of the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem by [@ohanatais](https://github.com/ohanatais).*

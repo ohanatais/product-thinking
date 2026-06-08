@@ -152,4 +152,4 @@ If you're here without having validated your idea yet, this is the right first s
 
 *Built from a real market research process — including a pivot, TAM/SAM/SOM iteration,
 and a competitive map that revealed where the space was actually empty.*
-*Part of the [pm-skills](https://github.com/ohanatais/pm-skills) ecosystem by [@ohanatais](https://github.com/ohanatais).*
+*Part of the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem by [@ohanatais](https://github.com/ohanatais).*
