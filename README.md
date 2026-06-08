@@ -83,8 +83,8 @@ If you're already mid-process, jump to wherever you are. But if something feels 
 
 | Content | Status |
 |---|---|
-| Market research | 🔄 In progress · skill available in [`skills/market-research`](skills/market-research) |
-| Idea validation | 🔄 In progress · skill available in [`skills/idea-validation`](skills/idea-validation) |
+| Market research | ✅ Skill available in [`skills/market-research`](skills/market-research) |
+| Idea validation | ✅ Skill available in [`skills/idea-validation`](skills/idea-validation) |
 | Personas | 📋 Planned |
 | Positioning | 📋 Planned |
 | PRD | 📋 Planned |
