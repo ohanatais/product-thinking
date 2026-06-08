@@ -72,7 +72,10 @@ Read the guides in order if you're starting from scratch. Each one feeds into th
 
 If you're already mid-process, jump to wherever you are. But if something feels off downstream, the answer is almost always in a step you skipped upstream.
 
-**Claude Code skills** for each stage live in [pm-skills](https://github.com/ohanatais/pm-skills). Install them in your project to use structured frameworks directly inside Claude Code.
+**Claude Code skills** for each stage live in [pm-skills](https://github.com/ohanatais/pm-skills) and, for the stages already covered, directly in [`skills/`](skills/) in this repo. Install them in your project to use structured frameworks directly inside Claude Code.
+
+- [`skills/market-research`](skills/market-research) — research a market without a research team or a budget
+- [`skills/idea-validation`](skills/idea-validation) — find and test the riskiest assumption behind an idea before building it
 
 ---
 
@@ -80,8 +83,8 @@ If you're already mid-process, jump to wherever you are. But if something feels 
 
 | Content | Status |
 |---|---|
-| Market research | 🔄 In progress |
-| Idea validation | 📋 Planned |
+| Market research | 🔄 In progress · skill available in [`skills/market-research`](skills/market-research) |
+| Idea validation | 🔄 In progress · skill available in [`skills/idea-validation`](skills/idea-validation) |
 | Personas | 📋 Planned |
 | Positioning | 📋 Planned |
 | PRD | 📋 Planned |
