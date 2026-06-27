@@ -1,13 +1,13 @@
 {
-  "name": "product-thinking",
+  "name": "product-discovery",
   "owner": {
     "name": "Ohana Taís"
   },
   "plugins": [
     {
-      "name": "product-thinking",
+      "name": "product-discovery",
       "source": "./",
-      "description": "Product thinking skills for solo builders — market research, idea validation, personas, positioning, and a lean PRD.",
+      "description": "Product discovery skills for solo builders — opportunity mapping, market research, idea validation, personas, positioning, and a lean PRD.",
       "version": "0.1.0"
     }
   ]

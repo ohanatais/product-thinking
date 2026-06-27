@@ -235,7 +235,7 @@ What a user can do in this version:
 /prd               →   translates all of this into what to build (you are here)
 ```
 
-This is the last step in the product thinking sequence before building.
+This is the last step in the product discovery sequence before building.
 After the PRD: use it as context in every Claude Code session.
 
 ---

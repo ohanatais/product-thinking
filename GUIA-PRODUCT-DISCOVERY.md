@@ -1,4 +1,4 @@
-# Guia: Product Thinking antes de codar
+# Guia: Product Discovery antes de codar
 
 > Este guia é lido dentro do Claude Code — ou em qualquer leitor Markdown.
 > Cada módulo leva entre 20 e 60 minutos. Você pode parar e continuar de onde parou.
@@ -75,7 +75,7 @@ Instale a skill de pesquisa de mercado e rode `/market-research` com a descriç�
 
 ```bash
 # Copiar para o seu projeto
-cp -r path/to/product-thinking/market-research .claude/skills/
+cp -r path/to/product-discovery/skills/market-research .claude/skills/
 
 # No Claude Code:
 /market-research
@@ -119,7 +119,7 @@ A segunda pergunta revela o que a pessoa realmente faz, quanto o problema dói, 
 ### O que fazer agora
 
 ```bash
-cp -r path/to/product-thinking/idea-validation .claude/skills/
+cp -r path/to/product-discovery/skills/idea-validation .claude/skills/
 
 # No Claude Code:
 /validate-idea
@@ -175,7 +175,7 @@ A gambiarra mostra quanto o problema dói (ela já faz esforço extra), o custo 
 ### O que fazer agora
 
 ```bash
-cp -r path/to/product-thinking/personas .claude/skills/
+cp -r path/to/product-discovery/skills/personas .claude/skills/
 
 # No Claude Code:
 /personas
@@ -233,7 +233,7 @@ O posicionamento que você produz aqui é uma tese — a melhor hipótese com as
 ### O que fazer agora
 
 ```bash
-cp -r path/to/product-thinking/positioning .claude/skills/
+cp -r path/to/product-discovery/skills/positioning .claude/skills/
 
 # No Claude Code:
 /positioning
@@ -281,7 +281,7 @@ Isso evita que o Claude Code adicione features não solicitadas, tome decisões 
 ### O que fazer agora
 
 ```bash
-cp -r path/to/product-thinking/prd .claude/skills/
+cp -r path/to/product-discovery/skills/prd .claude/skills/
 
 # No Claude Code:
 /prd

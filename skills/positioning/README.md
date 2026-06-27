@@ -2,7 +2,7 @@
 
 > Positioning is not a tagline. It's the answer to: in a world where these alternatives exist, why would someone who cares deeply about this specific value choose this product?
 
-Part of the [product-thinking](https://github.com/ohanatais/product-thinking) skill set, within the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem.
+Part of the [product-discovery](https://github.com/ohanatais/product-discovery) skill set, within the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem.
 
 ---
 

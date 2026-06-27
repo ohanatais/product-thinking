@@ -2,7 +2,7 @@
 
 > A persona is not a profile card. It's the answer to: what job is this person trying to get done, and what would make them switch to do it better?
 
-Part of the [product-thinking](https://github.com/ohanatais/product-thinking) skill set, within the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem.
+Part of the [product-discovery](https://github.com/ohanatais/product-discovery) skill set, within the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem.
 
 ---
 

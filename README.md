@@ -1,4 +1,4 @@
-# product-thinking
+# product-discovery
 
 > Before you build anything, you need to understand what's worth building and for whom.
 
@@ -11,6 +11,17 @@ This repo covers everything that happens before the first line of code, the thin
 ---
 
 ## What's inside
+
+### Opportunity mapping
+How to find a product opportunity that fits *you* — before you even have an idea.
+
+Most ideation starts from the idea and asks "is this good?". This starts from the founder and asks "what's good *for you*?" — because the same idea is brilliant for one person and doomed for another. The variable isn't the idea; it's the fit between the idea, the market, and the channel you can actually reach.
+
+- How to map opportunities from your unfair advantage, not a blank page
+- Why channel fit — can you even be found? — decides more than the idea itself
+- How to score Founder × Market × Channel fit and surface the traps
+- Three modes — explore, focus, pressure-test — that form a funnel
+- Why "none of these fit" is a valid, useful answer
 
 ### Market research
 How to research a market without a research team or a budget.
@@ -68,19 +79,20 @@ The corporate PRD was designed for teams. A solo builder needs something leaner 
 
 ## How to use this
 
-Read the guides in order if you're starting from scratch. Each one feeds into the next — your market research informs your personas, your personas shape your positioning, your positioning drives your PRD.
+Read the guides in order if you're starting from scratch. Each one feeds into the next — opportunity mapping points you at a space that fits you, your market research maps it, your personas sharpen who it's for, your positioning sets you apart, and your PRD turns it into a build.
 
 If you're already mid-process, jump to wherever you are. But if something feels off downstream, the answer is almost always in a step you skipped upstream.
 
 **Claude Code skills** for each stage live directly in this repo — one folder per topic, each with its own `SKILL.md`, `references/`, and `README.md`. Install them in your project to use structured frameworks directly inside Claude Code.
 
+- [`opportunity-mapping`](skills/opportunity-mapping) — find an opportunity that fits you, starting from the founder, not the idea
 - [`market-research`](skills/market-research) — research a market without a research team or a budget
 - [`idea-validation`](skills/idea-validation) — find and test the riskiest assumption behind an idea before building it
 - [`personas`](skills/personas) — define who exactly you're building for, grounded in JTBD
 - [`positioning`](skills/positioning) — define where your product stands using the Dunford five-component framework
 - [`prd`](skills/prd) — write a four-section PRD built for solo builders
 
-A PT-BR introductory guide that walks through all five stages, module by module, lives in [`GUIA-PRODUCT-THINKING.md`](GUIA-PRODUCT-THINKING.md).
+A PT-BR introductory guide that walks through the stages module by module lives in [`GUIA-PRODUCT-DISCOVERY.md`](GUIA-PRODUCT-DISCOVERY.md). *(An opportunity-mapping module for the guide is coming — the skill itself is already available.)*
 
 ---
 
@@ -88,6 +100,7 @@ A PT-BR introductory guide that walks through all five stages, module by module,
 
 | Content | Status |
 |---|---|
+| Opportunity mapping | ✅ Skill available in [`opportunity-mapping`](skills/opportunity-mapping) |
 | Market research | ✅ Skill available in [`market-research`](skills/market-research) |
 | Idea validation | ✅ Skill available in [`idea-validation`](skills/idea-validation) |
 | Personas | ✅ Skill available in [`personas`](skills/personas) |
@@ -101,7 +114,7 @@ A PT-BR introductory guide that walks through all five stages, module by module,
 | Repo | Focus |
 |---|---|
 | [build-from-zero](https://github.com/ohanatais/build-from-zero) | End-to-end hub |
-| **product-thinking** | You are here |
+| **product-discovery** | You are here |
 | [brand-and-copy](https://github.com/ohanatais/brand-and-copy) | Brand identity, tone, copy |
 | [build-with-claude](https://github.com/ohanatais/build-with-claude) | Technical guide for non-technical builders |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, first users |

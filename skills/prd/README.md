@@ -2,7 +2,7 @@
 
 > The PRD answers one question: what exactly am I building, for whom, and why does this version make sense to build first?
 
-Part of the [product-thinking](https://github.com/ohanatais/product-thinking) skill set, within the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem.
+Part of the [product-discovery](https://github.com/ohanatais/product-discovery) skill set, within the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecosystem.
 
 ---
 
