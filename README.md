@@ -74,11 +74,11 @@ If you're already mid-process, jump to wherever you are. But if something feels 
 
 **Claude Code skills** for each stage live directly in this repo — one folder per topic, each with its own `SKILL.md`, `references/`, and `README.md`. Install them in your project to use structured frameworks directly inside Claude Code.
 
-- [`market-research`](market-research) — research a market without a research team or a budget
-- [`idea-validation`](idea-validation) — find and test the riskiest assumption behind an idea before building it
-- [`personas`](personas) — define who exactly you're building for, grounded in JTBD
-- [`positioning`](positioning) — define where your product stands using the Dunford five-component framework
-- [`prd`](prd) — write a four-section PRD built for solo builders
+- [`market-research`](skills/market-research) — research a market without a research team or a budget
+- [`idea-validation`](skills/idea-validation) — find and test the riskiest assumption behind an idea before building it
+- [`personas`](skills/personas) — define who exactly you're building for, grounded in JTBD
+- [`positioning`](skills/positioning) — define where your product stands using the Dunford five-component framework
+- [`prd`](skills/prd) — write a four-section PRD built for solo builders
 
 A PT-BR introductory guide that walks through all five stages, module by module, lives in [`GUIA-PRODUCT-THINKING.md`](GUIA-PRODUCT-THINKING.md).
 
@@ -88,11 +88,11 @@ A PT-BR introductory guide that walks through all five stages, module by module,
 
 | Content | Status |
 |---|---|
-| Market research | ✅ Skill available in [`market-research`](market-research) |
-| Idea validation | ✅ Skill available in [`idea-validation`](idea-validation) |
-| Personas | ✅ Skill available in [`personas`](personas) |
-| Positioning | ✅ Skill available in [`positioning`](positioning) |
-| PRD | ✅ Skill available in [`prd`](prd) |
+| Market research | ✅ Skill available in [`market-research`](skills/market-research) |
+| Idea validation | ✅ Skill available in [`idea-validation`](skills/idea-validation) |
+| Personas | ✅ Skill available in [`personas`](skills/personas) |
+| Positioning | ✅ Skill available in [`positioning`](skills/positioning) |
+| PRD | ✅ Skill available in [`prd`](skills/prd) |
 
 ---
 
