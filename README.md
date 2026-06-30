@@ -75,6 +75,16 @@ The corporate PRD was designed for teams. A solo builder needs something leaner 
 - How to define "done" for an MVP
 - The PRD template that works with Claude Code
 
+### Product north
+The product-director brain that sits *over* all of the above — a contrarian thinking partner for before the code.
+
+The other guides are stages in a sequence. This one is the orchestrator: a Senior PM / Product Director who pushes back by default, studies your real code and data before opining, and ends every conversation on a decision you can act on. Call it whenever the direction isn't obvious — to frame a problem, pressure-test an idea, plan a launch, or pivot.
+
+- Why pushing back honestly beats agreeing fast — and the four-step move that does it
+- Six modes — explore, frame, stress, prototype, gtm, decide — that take a fuzzy question to a durable decision
+- How to name the lens you're using (JTBD, Kano, RICE, Hooked, PMF...) so you learn the reasoning, not just the answer
+- How a decision record becomes the best possible input to your PRD and your build
+
 ---
 
 ## How to use this
@@ -91,6 +101,7 @@ If you're already mid-process, jump to wherever you are. But if something feels 
 - [`personas`](skills/personas) — define who exactly you're building for, grounded in JTBD
 - [`positioning`](skills/positioning) — define where your product stands using the Dunford five-component framework
 - [`prd`](skills/prd) — write a four-section PRD built for solo builders
+- [`product-north`](skills/product-north) — the contrarian product-director layer over the whole sequence; call it anytime the direction isn't obvious
 
 A PT-BR introductory guide that walks through the stages module by module lives in [`GUIA-PRODUCT-DISCOVERY.md`](GUIA-PRODUCT-DISCOVERY.md). *(An opportunity-mapping module for the guide is coming — the skill itself is already available.)*
 
@@ -106,6 +117,7 @@ A PT-BR introductory guide that walks through the stages module by module lives 
 | Personas | ✅ Skill available in [`personas`](skills/personas) |
 | Positioning | ✅ Skill available in [`positioning`](skills/positioning) |
 | PRD | ✅ Skill available in [`prd`](skills/prd) |
+| Product north | ✅ Skill available in [`product-north`](skills/product-north) |
 
 ---
 

@@ -7,8 +7,8 @@
     {
       "name": "product-discovery",
       "source": "./",
-      "description": "Product discovery skills for solo builders — opportunity mapping, market research, idea validation, personas, positioning, and a lean PRD.",
-      "version": "0.1.0"
+      "description": "Product discovery skills for solo builders — opportunity mapping, market research, idea validation, personas, positioning, a lean PRD, and a contrarian product-director thinking layer.",
+      "version": "0.2.0"
     }
   ]
 }
